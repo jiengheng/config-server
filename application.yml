@@ -1,6 +1,6 @@
 server:
   port: 9898
-
+message: jiangheng8888
 spring:
   application:
     name: config-server
